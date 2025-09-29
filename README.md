@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 sinsoledad-cpp
 
 <!--
 **sinsoledad-cpp/sinsoledad-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aseubel&show_icons=true&bg_color=#FFFFFF&icon_color=#97D6FF&title_color=#0D11A1&text_color=#0D1117&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseubel&layout=compact&theme=buefy&hide_border=true&stats_format=bytes" /> |
+| ------------- | ------------- |
