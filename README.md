@@ -18,3 +18,7 @@ Here are some ideas to get you started:
   <p algin="center" width="320px">
        <img src="https://github-readme-stats.vercel.app/api?username=sinsoledad-cpp&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical">
   </p>
+    <p algin="center" width="320px">
+       <img src="https://github-readme-stats.vercel.app/api?username=dbinggo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical">
+  </p>
+| ------------- | ------------- |
